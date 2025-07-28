@@ -9,7 +9,10 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-native-community/slider": "^4.5.7",
     "expo": "~53.0.20",
+    "expo-font": "^13.3.2",
+    "expo-symbols": "^0.4.5",
     "react": "19.0.0",
     "react-native": "0.79.5"
   },
