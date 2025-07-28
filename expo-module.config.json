@@ -1,0 +1,9 @@
+{
+  "platforms": ["apple", "android", "web"],
+  "apple": {
+    "modules": ["ExpoiOSAnimatedMeshGradientModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.iosmeshgradient.ExpoiOSAnimatedMeshGradientModule"]
+  }
+}
