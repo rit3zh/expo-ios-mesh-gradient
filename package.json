@@ -1,7 +1,7 @@
 {
   "name": "expo-ios-mesh-gradient",
   "version": "0.1.0",
-  "description": "Animated mesh gradient for expo.",
+  "description": " Beautiful, animated iOS mesh gradient for React Native – built with SwiftUI + Expo magic 🧙‍♂️. Customize 🎛️ colors, speed & more. Perfect for splash screens, backgrounds, or aesthetic vibes ✨",
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "scripts": {
